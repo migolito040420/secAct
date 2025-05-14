@@ -17,8 +17,8 @@ public class ChatMain {
             public void actionPerformed(ActionEvent e) {
                 String chatbox = frame1.chatField.getText();
                 if (!chatbox.isEmpty()) {
-                    frame1.displayField.append("Chat 1: " + chatbox + "\n"); // Display in Chat 1
-                    frame2.displayField.append("Chat 1: " + chatbox + "\n"); // Display in Chat 2
+                    frame1.displayField.append("McDado: " + chatbox + "\n"); // Display in Chat 1
+                    frame2.displayField.append("McDado: " + chatbox + "\n"); // Display in Chat 2
                     frame1.chatField.setText(""); // Clear input field after sending
                 }
             }
