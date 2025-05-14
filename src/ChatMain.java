@@ -8,7 +8,7 @@ public class ChatMain {
         ChatSec frame2 = new ChatSec();
 
         frame1.setTitle("silay");
-        frame2.setTitle("Kamo");
+        frame2.setTitle("Emmanuel CLyde FLores");
         frame1.setSize(400, 230);
         frame2.setSize(400, 230);
 
