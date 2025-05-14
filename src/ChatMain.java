@@ -7,8 +7,8 @@ public class ChatMain {
         ChatSec frame1 = new ChatSec();
         ChatSec frame2 = new ChatSec();
 
-        frame1.setTitle("Ako//");
-        frame2.setTitle("Kamo//");
+        frame1.setTitle("Ako/////");
+        frame2.setTitle("Kamo//////");
         frame1.setSize(400, 230);
         frame2.setSize(400, 230);
 
