@@ -17,7 +17,11 @@ public class ChatMain {
 >>>>>>> origin
 =======
         frame1.setTitle("silay");
+<<<<<<< HEAD
         frame2.setTitle("Kamo");
+>>>>>>> origin
+=======
+        frame2.setTitle("Emmanuel CLyde FLores");
 >>>>>>> origin
         frame1.setSize(400, 230);
         frame2.setSize(400, 230);
